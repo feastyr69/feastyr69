@@ -6,10 +6,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;COMPETITIVE+PROGRAMMER;BACKEND+ARCHITECT;ECE+%40+BIT+MESRA" alt="Typing SVG" />
   </a>
-
-  <br>
-
-  <img width="600" alt="header-animation" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
+<br>
+  <img width="500" alt="header-animation" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
   
   <br>
   <br>
@@ -37,9 +35,13 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=feastyr69&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=feastyr69&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feastyr69&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=feastyr69&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=feastyr69&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feastyr69&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 <!--
 **feastyr69/feastyr69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
