@@ -1,8 +1,10 @@
 # Hi there, I'm Yash Raj 👋
 
-<img width="500" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
+<img width="600" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
+<br>
+<br>
 
- **B.Tech in Electronics & Communication @ BIT Mesra** |  **Competitive Programmer**
+**B.Tech in Electronics & Communication @ BIT Mesra** |  **Competitive Programmer**
 
 I am an engineering student and developer focused on algorithms, robust backend architectures, and solving complex problems. 
 
