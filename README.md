@@ -36,11 +36,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=feastyr69&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=feastyr69&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feastyr69&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <!--
