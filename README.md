@@ -1,12 +1,25 @@
-# Hi there, I'm Yash Raj 👋
+<div align="center">
+  
+  <h1>Hi There! I'm Yash Raj</h1>
 
-<img width="600" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
-<br>
-<br>
+  <!-- Dynamic Typing Animation for Roles -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;COMPETITIVE+PROGRAMMER;BACKEND+ARCHITECT;ECE+%40+BIT+MESRA" alt="Typing SVG" />
+  </a>
 
-**B.Tech in Electronics & Communication @ BIT Mesra** |  **Competitive Programmer**
+  <br>
 
-I am an engineering student and developer focused on algorithms, robust backend architectures, and solving complex problems. 
+  <img width="600" alt="header-animation" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
+  
+  <br>
+  <br>
+
+  <p>
+    Architecting robust, low-latency distributed systems and optimizing complex C++ algorithms.<br>
+    Focused on real-time synchronization and high-performance backend infrastructure.
+  </p>
+
+</div>
 
 ---
 
