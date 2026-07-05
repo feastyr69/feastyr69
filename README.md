@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi There! I'm Yash Raj</h1>
+  <h1>Hi There! I'm Yash Raj 👋</h1>
 
   <!-- Dynamic Typing Animation for Roles -->
   <a href="https://git.io/typing-svg">
