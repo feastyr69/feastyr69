@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Raj 👋
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMyNzM2ODQsIm5iZiI6MTc4MzI3MzM4NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA1VDE3NDMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZWVjOWE4YWIwMjU0M2Y2YzQ3ODQ0OWQ3M2VkNTIxNjVjZTQxMmFlZDM3OTdhZTBiNTg2YTljYmY1YTVlZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.nbmdTKA1zLES8_nI45cCbr5Fax_DUCUKuU7IZw4S-_4" alt="bg"/>
+<img width="960" height="540" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/db9056c0-9721-4a9b-bd1d-6f0a8695f6dd" />
 
  **B.Tech in Electronics & Communication @ BIT Mesra** |  **Competitive Programmer**
 
@@ -16,7 +16,7 @@ I am an engineering student and developer focused on algorithms, robust backend 
 
 ### 🏆 Competitive Programming
 
-<a href="https://leetcode.com/u/feastyr"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%20Max:%201856-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> <a href="https://codechef.com/users/feastyr"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%7C%20Max:%201663-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a> <a href="https://codeforces.com/profile/feastyr"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%20Max:%201456-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/feastyr"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%20Max:%201856-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a><br> <a href="https://codechef.com/users/feastyr"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%7C%20Max:%201663-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a><br> <a href="https://codeforces.com/profile/feastyr"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%20Max:%201456-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 
 ---
 
