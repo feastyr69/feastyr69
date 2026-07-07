@@ -35,9 +35,9 @@
 
   <p>
     <a href="https://leetcode.com/u/feastyr"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%20Max:%201856-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://codechef.com/users/feastyr"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%7C%20Max:%201663-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/feastyr"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%20Max:%201456-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
 
