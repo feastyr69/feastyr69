@@ -13,6 +13,7 @@
   <br>
 
   <p>
+    I love what I'm doing<br>
     Architecting robust, low-latency distributed systems and optimizing complex C++ algorithms.<br>
     Focused on real-time synchronization and high-performance backend infrastructure.
   </p>
